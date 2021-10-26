@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PrintQueryConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Additions>
+    <QueryAddition TemplateName="LendingArticleSlips.docx" QueryAddition="" FilterAddition="" />
+    <QueryAddition TemplateName="LendingLoanLabels.doc" QueryAddition="" FilterAddition="" />
+    <QueryAddition TemplateName="BorrowingLoanLabels.doc" QueryAddition="" FilterAddition="" />
+    <QueryAddition TemplateName="LendingLoanShippingLabels.doc" QueryAddition="" FilterAddition="" />
+    <QueryAddition TemplateName="BorrowingReturnAddressLabels.doc" QueryAddition="" FilterAddition="" />
+    <QueryAddition TemplateName="PrintRequest.doc" QueryAddition="" FilterAddition="" />
+    <QueryAddition TemplateName="PrintAddress.doc" QueryAddition="" FilterAddition="" />
+    <QueryAddition TemplateName="LendingLoanSlips.doc" QueryAddition="" FilterAddition="" />
+    <QueryAddition TemplateName="DocDelArticleSlips.doc" QueryAddition="" FilterAddition="" />
+    <QueryAddition TemplateName="DocDelLoanLabels.doc" QueryAddition="" FilterAddition="" />
+  </Additions>
+</PrintQueryConfiguration>
